@@ -3,6 +3,8 @@
 <img width="1206" height="737" alt="image" src="https://github.com/user-attachments/assets/b36fb259-31f8-4cfd-83b7-aea92b5d9c81" />
 https://guythelevy.itch.io/gamedev-week-4-physics-game-spaceship
 
+# Please switch to "master" branch to view code
+
 ## Objective
 Land your spaceship safely on the planet.
 
