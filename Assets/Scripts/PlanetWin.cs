@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; 
+using UnityEngine.SceneManagement;
 
 public class PlanetWin : MonoBehaviour
 {
@@ -8,9 +8,8 @@ public class PlanetWin : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("You Win!");
-            
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }
